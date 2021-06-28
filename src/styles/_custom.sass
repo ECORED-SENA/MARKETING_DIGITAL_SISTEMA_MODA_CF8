@@ -37,3 +37,26 @@
 .lista-ul--color li > i:first-of-type
   color: $color-secundario !important
 
+.DecTextIzq
+  position: relative 
+  div
+    position: relative
+    z-index: 1
+    padding: 8px 14px
+
+.DecTextIzq::before
+  content: ""
+  display: block
+  position: absolute
+  top: 0 !important
+  width: 30%
+  bottom: 0
+  left: 0 !important
+  height: 40%
+  right: 0
+  background-color: lighten($color-primario, 20%) !important
+
+.hrNew
+  background-color: transparent !important
+  border-top: 2px dotted #A0A0A0 !important
+

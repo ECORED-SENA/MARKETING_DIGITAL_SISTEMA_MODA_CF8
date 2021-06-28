@@ -80,10 +80,38 @@
                 i.fas.fa-check
                 | Universo de vestuario.
 
-    
-
-        
-          
+    .DecTextIzq.mb-4
+      div
+        p Estos mix o carteras de productos se renuevan de acuerdo a varios análisis que deben llevarse a cabo como por ejemplo la utilidad, costos, rentabilidad, circulación de los productos, distribución, para determinar variabilidad en tiempo para la producción de estos o la sustitución o eliminación de algún producto para reorientar las estrategias de marketing de una marca. Cabe resaltar que, como estrategia en fidelización de marca, muchas ofrecen productos momentáneos que aparecen de acuerdo a las necesidades de los consumidores y esta también puede llegar a convertirse en una línea que funciona en torno a tendencias de corto alcance.
+        p Ahora bien, hay empresas que no necesariamente se posicionan como una marca, sino que construyen varias marcas, estas podrían contemplarse como líneas que contienen productos contenidas a su vez dentro de esas mismas líneas, para suplir diferentes necesidades a diferentes grupos de consumidor o nichos. Para ampliar estos mix o cartera de productos en una marca se parte de los tres elementos ¿Cuáles cree que son?, comprende la información que se presenta a continuación. 
+      
+    .row.justify-content-center
+      .col-lg-10.bg02.p-4.mb-4
+        .row.align-items-center
+          .col-4
+            figure
+              img.mx-auto(src="@/assets/curso/tema3/img06.svg", alt="Incrementar la amplitud")
+          .col-8
+            h4 Incrementar la amplitud
+            p.mb-0 Puede estar enfocado en lanzar nuevas líneas de nuevos productos hacia diferentes públicos o profundizando en una de las líneas ya creadas por una empresa o marca.
+      
+      .col-lg-10.bg02.p-4.mb-4
+        .row.align-items-center
+          .col-4
+            figure
+              img.mx-auto(src="@/assets/curso/tema3/img07.svg", alt="Incremento de la amplitud en expansión hacia abajo")
+          .col-8
+            h4 Incremento de la amplitud en expansión hacia abajo
+            p.mb-0 Creación de productos o líneas más asequibles sin descuidar la comunicación de marca.
+      
+      .col-lg-10.bg02.p-4
+        .row.align-items-center
+          .col-4
+            figure
+              img.mx-auto(src="@/assets/curso/tema3/img08.svg", alt="Incremento de la amplitud de expansión hacia arriba")
+          .col-8
+            h4 Incremento de la amplitud de expansión hacia arriba
+            p.mb-0 Sugerido para marcas o empresas que cuentan con excelente posicionamiento lanzando productos con costos más elevados.
 
 </template>
 
