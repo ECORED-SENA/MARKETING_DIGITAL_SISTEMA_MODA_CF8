@@ -4,6 +4,9 @@
 .bg01
   background-color: lighten($color-primario, 14%) !important
 
+.bg011
+  background-color: lighten($color-primario, 20%) !important
+
 .bg02
   background-color: lighten($color-acento-contenido, 20%) !important
 
@@ -60,3 +63,25 @@
   background-color: transparent !important
   border-top: 2px dotted #A0A0A0 !important
 
+.tabs-a.color-primario .tabs-a__tab:hover, .tabs-a.color-primario .tabs-a__tab:active, .tabs-a.color-primario .tabs-a__tab:focus
+  color: $white !important
+
+.modBloque::before
+  left: 0 !important
+  right: 50% !important
+
+.separador
+  opacity: 0.3 !important
+
+.bloque-texto-d.color-acento-contenido::before
+  background-color: lighten($color-acento-contenido, 20%) !important
+
+.bloque-texto-d i
+  color: $color-secundario !important
+
+.bloque-texto-d
+  border-top: 2px solid $color-secundario !important
+
+.pasos-a.color-secundario
+  .pasos-a__circle div
+    color: $white
