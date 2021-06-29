@@ -125,134 +125,127 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Bur, A. (2013). Moda, estilo y ciclo de vida de los productos de la industria textil. Centro de Estudios en Diseño y Comunicación.',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=4200830',
+    },
+    {
+      referencia: 'Choklat, A. (2012) Diseño de calzado.',
+      link: 'https://vdocuments.mx/reader/full/diseno-de-calzado-562d0eeeb3cd3',
+    },
+    {
+      referencia:
+        'Kotler, P. & Keller, K. (2012). Dirección de Marketing Decimocuarta edición. México: Pearson Educación.',
+    },
+    {
+      referencia:
+        'Posner, H. (2011). Marketing Fashion. Barcelona: Gustavo Gili, SL.',
+    },
+    {
+      referencia:
+        'Quinayá, D. (2017). El ABC del proceso de producción para prendas de vestir.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.fadp.edu.co/wp-content/uploads/2018/06/revista-oblicua-11-3.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Rivera, L. M. (2016). Creación y lanzamiento de nuevos productos en la empresa (2a. ed.). Editorial de la Universidad Politécnica de Valencia.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/57409?page=62',
+    },
+    {
+      referencia: 'SENA. (2020). YouTube: Maquinaria marroquinería.',
+      link: 'https://www.youtube.com/watch?v=9SsLJIbLc8w',
+    },
+    {
+      referencia: 'SENA, (2020). YouTube: Herrajes en la marroquinería.',
+      link: 'https://www.youtube.com/watch?v=8kAVmkW_MG0',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'SENA. (2021). YouTube: Categoría de Prendas - Tipologías - Bitácora de Formas.',
+      link: 'https://www.youtube.com/watch?v=MPaIS2YaAXM&t=458s',
+    },
+    {
+      referencia: 'SENA. (2020). YouTube: Estructura del Cuerpo.',
+      link: 'https://www.youtube.com/watch?v=V81Fjuq8XWs',
+    },
+    {
+      referencia: 'SENA. (2020). YouTube: Toma Medidas.',
+      link: 'https://www.youtube.com/watch?v=7tzquX5wI-4',
+    },
+    {
+      referencia: 'SENA. (2020). Reconocimiento de las partes de las prendas.',
+      link: 'https://www.youtube.com/watch?v=FHhqkd0h4Kw',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'Sordo, A. (2020). Hubspot: 5 estrategias para un lanzamiento de producto realmente exitoso.',
+      link: 'https://blog.hubspot.es/marketing/lanzamiento-de-producto',
     },
     {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+      referencia: 'Trekking Top (s.f.). Trekking Top: Guía de Tallas Culumbia.',
+      link: 'https://trekkingtop.com/guia-tallas-columbia/',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Altura del tacón',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        '“Determina el grado de inclinación de la horma” (Choklat, 2012).',
     },
     {
-      termino: 'Suftware',
+      termino: 'Ángulo de inclinación del tacón',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        '“Ángulo que forma la base de la horma al encontrarse con el tacón” (Choklat, 2012).',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Articulación',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        '“Punto de la horma en el que se conectan de forma mecánica la parte posterior y delantera” (Choklat, 2012).',
     },
     {
-      termino: 'Áectores',
+      termino: 'Becerro',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        '“Graneado piel de becerro curtida al cromo, con un grano que presenta una textura con marcas similares a pequeños cuadrados o arrugas” (Choklat, 2012).',
     },
     {
-      termino: 'Moda',
+      termino: 'Curtido',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        '“Proceso de obtención del cuero a partir de la piel del animal para evitar que se descomponga” (Choklat, 2012).',
     },
     {
       termino: 'Diseño',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        '“Actividad creativa orientada a soluciones idóneas a ciertas problemática” (Choklat, 2012).',
+    },
+    {
+      termino: 'Lengüeta',
+      significado:
+        '“Se encuentra generalmente en los zapatos de cordones, se trata de una tira que recorre el centro superior del zapato y descansa sobre el empeine del pie, protegiéndolo y evitando la fricción de los cordones” (Choklat, 2012).',
+    },
+    {
+      termino: 'Moda',
+      significado:
+        'Hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
     },
     {
       termino: 'Tipología',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
     },
   ],
   complementario: [
     {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+      texto: 'SENA, (2020). Reconocimiento de las partes de las prendas.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=FHhqkd0h4Kw',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Quinayá, D (2017). El ABC del proceso de producción para prendas de vestir.',
+      tipo: 'Artículo',
+      descarga:
+        'https://www.fadp.edu.co/wp-content/uploads/2018/06/revista-oblicua-11-3.pdf',
     },
   ],
   creditos: {
@@ -284,20 +277,32 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Eulises Orduz Amezquita',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Wilson Andrés Arenales Caceres',
         cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Diego Fernando Velasco Güiza',
+        cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
