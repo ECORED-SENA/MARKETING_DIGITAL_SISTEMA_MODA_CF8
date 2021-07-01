@@ -21,7 +21,7 @@
           .tarjeta.bg011.p-4(titulo="Anatomía")
             .row.align-items-end
               .col-lg-8.mb-4
-                p.mb-0 Ciencia que estudia toda estructura de los seres vivos, incluido su topografía, disposición y la relacsión de su cuerpo y los órganos que lo integran.
+                p.mb-0 Ciencia que estudia toda estructura de los seres vivos, incluido su topografía, disposición y la relación de su cuerpo y los órganos que lo integran.
               .col-lg-4
                 figure
                   img(src="@/assets/curso/tema5/img02.svg", alt="Anatomía")
@@ -129,7 +129,7 @@
           .row.m-0.align-items-center.justify-content-between
             .col-lg-8.mb-4.mb-lg-0
               .bloque-texto-a__texto.p-4
-                p.mb-4 A continuación, le sugerimos explorar la página web “Trekking Top” (s.f.), para que usted identifique las tallas y sus conversiones según la posición geográfica. Explore lo relacionado  con el calzado, la ropa de mujer y hombre, y niños.
+                p.mb-4 A continuación, le sugerimos explorar la página web “Trekking Top” (s.f.), para que usted identifique las tallas y sus conversiones según la posición geográfica. Explore lo relacionado  con el calzado, la ropa de mujer, de hombre, y de niños.
                 p.mb-0 Revisa su sitio web haciendo clic en el icono.
             .col-lg-4.mb-lg-0
               a(href='https://trekkingtop.com/guia-tallas-columbia/', target='_blank')

@@ -244,8 +244,7 @@ export default {
       texto:
         'Quinayá, D (2017). El ABC del proceso de producción para prendas de vestir.',
       tipo: 'Artículo',
-      descarga:
-        'https://www.fadp.edu.co/wp-content/uploads/2018/06/revista-oblicua-11-3.pdf',
+      descarga: '/downloads/revista-oblicua-11-3.pdf',
     },
   ],
   creditos: {

@@ -27,81 +27,87 @@
         p.text-center 
           strong Las partes que se pueden identificar en la mayoría de los calzados son:
         
-        ImagenInfografica.color-secundario.mb-5
+        .row.justify-content-center
+          .col-lg-8
+        
+            ImagenInfografica.color-secundario.mb-5
 
-          template(v-slot:imagen)
-            figure
-              img(src='@/assets/curso/tema2/img03.png', alt='calzado')
+              template(v-slot:imagen)
+                figure
+                  img(src='@/assets/curso/tema2/img03.png', alt='calzado')
 
-          .tarjeta.color-secundario.text-white.p-3(x="9%" y="60%")
-            .h4.mb-2 Puntera
-            p.mb-0 Está ubicada en la parte delantera del zapato que cubre los dedos.
-          
-          .tarjeta.color-secundario.text-white.p-3(x="13%" y="84%")
-            .h4.mb-2 Suela
-            p.mb-0 Generalmente se hace de cuero fuerte o de materiales sintéticos, para obtener resistencia debido al contacto con el suelo.
+              .tarjeta.color-secundario.text-white.p-3(x="9%" y="60%")
+                .h4.mb-2 Puntera
+                p.mb-0 Está ubicada en la parte delantera del zapato que cubre los dedos.
+              
+              .tarjeta.color-secundario.text-white.p-3(x="13%" y="84%")
+                .h4.mb-2 Suela
+                p.mb-0 Generalmente se hace de cuero fuerte o de materiales sintéticos, para obtener resistencia debido al contacto con el suelo.
 
-          .tarjeta.color-secundario.text-white.p-3(x="31%" y="70%")
-            .h4.mb-2 Palas
-            p.mb-0 Su función es cubrir al pie por encima.
+              .tarjeta.color-secundario.text-white.p-3(x="31%" y="70%")
+                .h4.mb-2 Palas
+                p.mb-0 Su función es cubrir al pie por encima.
 
-          .tarjeta.color-secundario.text-white.p-3(x="58%" y="100%")
-            .h4.mb-2 Cuarto
-            p.mb-0 Es la zona que queda en el aire para que el pie no quede plano y amortigüe a la hora de la pisada.
-          
-          .tarjeta.color-secundario.text-white.p-3(x="81%" y="86%")
-            .h4.mb-2 Tacón
-            p.mb-0 Da soporte al talón del pie.
-          
-          .tarjeta.color-secundario.text-white.p-3(x="93%" y="56%")
-            .h4.mb-2 Talón
-            p.mb-0 Parte de atrás del pie.
+              .tarjeta.color-secundario.text-white.p-3(x="58%" y="100%")
+                .h4.mb-2 Cuarto
+                p.mb-0 Es la zona que queda en el aire para que el pie no quede plano y amortigüe a la hora de la pisada.
+              
+              .tarjeta.color-secundario.text-white.p-3(x="81%" y="86%")
+                .h4.mb-2 Tacón
+                p.mb-0 Da soporte al talón del pie.
+              
+              .tarjeta.color-secundario.text-white.p-3(x="93%" y="56%")
+                .h4.mb-2 Talón
+                p.mb-0 Parte de atrás del pie.
         
         p.text-center 
           strong Las partes externas del calzado son:
         
-        ImagenInfografica.color-secundario.mb-5
+        .row.justify-content-center
+          .col-lg-8
+        
+            ImagenInfografica.color-secundario.mb-5
 
-          template(v-slot:imagen)
-            figure
-              img(src='@/assets/curso/tema2/img04.png', alt='calzado')
+              template(v-slot:imagen)
+                figure
+                  img(src='@/assets/curso/tema2/img04.png', alt='calzado')
 
-          .tarjeta.color-secundario.text-white.p-3(x="9%" y="42%")
-            .h4.mb-2 Puntera
-            p.mb-0 Está ubicada en la parte delantera del zapato que cubre los dedos.
+              .tarjeta.color-secundario.text-white.p-3(x="9%" y="42%")
+                .h4.mb-2 Puntera
+                p.mb-0 Está ubicada en la parte delantera del zapato que cubre los dedos.
 
-          
-          .tarjeta.color-secundario.text-white.p-3(x="12%" y="17%")
-            .h4.mb-2 Cerco
-            p.mb-0 Es una tira flexible que se ubica por todo el borde del zapato.
+              
+              .tarjeta.color-secundario.text-white.p-3(x="12%" y="17%")
+                .h4.mb-2 Cerco
+                p.mb-0 Es una tira flexible que se ubica por todo el borde del zapato.
 
-          .tarjeta.color-secundario.text-white.p-3(x="31%" y="74%")
-            .h4.mb-2 Empeines
-            p.mb-0 Está ubicado en la parte superior del pie y sirve para sujetarlo.
+              .tarjeta.color-secundario.text-white.p-3(x="31%" y="74%")
+                .h4.mb-2 Empeines
+                p.mb-0 Está ubicado en la parte superior del pie y sirve para sujetarlo.
 
-          .tarjeta.color-secundario.text-white.p-3(x="39%" y="55%")
-            .h4.mb-2 Ojales
-            p.mb-0 Son perforaciones que se realizan para ser usadas como pasadores para cordones, cintas o resortes. En algunas ocasiones son decorativos.
-          
-          .tarjeta.color-secundario.text-white.p-3(x="45%" y="44%")
-            .h4.mb-2 Cordoneras
-            p.mb-0 No todos los zapatos lo tienen, solo aquellos que tendrán cordones o resortes.
-          
-          .tarjeta.color-secundario.text-white.p-3(x="57%" y="44%")
-            .h4.mb-2 Lengüeta
-            p.mb-0 Es una pieza que se ubica debajo de los cordones.
-          
-          .tarjeta.color-secundario.text-white.p-3(x="69%" y="50%")
-            .h4.mb-2 Planta
-            p.mb-0 También llamada plantilla. Es una pieza que se encuentra en el interior del calzado, ayuda a reducir el impacto del pie contra al suelo cada vez que caminamos.
-          
-          .tarjeta.color-secundario.text-white.p-3(x="42%" y="23%")
-            .h4.mb-2 Orejas
-            p.mb-0 Se encarga de sujetar el empeine.
-          
-          .tarjeta.color-secundario.text-white.p-3(x="65%" y="25%")
-            .h4.mb-2 Forro
-            p.mb-0 Este generalmente se hace en un material más delgado como el cuero del cerdo, siempre va en la parte interna.
+              .tarjeta.color-secundario.text-white.p-3(x="39%" y="55%")
+                .h4.mb-2 Ojales
+                p.mb-0 Son perforaciones que se realizan para ser usadas como pasadores para cordones, cintas o resortes. En algunas ocasiones son decorativos.
+              
+              .tarjeta.color-secundario.text-white.p-3(x="45%" y="44%")
+                .h4.mb-2 Cordoneras
+                p.mb-0 No todos los zapatos lo tienen, solo aquellos que tendrán cordones o resortes.
+              
+              .tarjeta.color-secundario.text-white.p-3(x="57%" y="44%")
+                .h4.mb-2 Lengüeta
+                p.mb-0 Es una pieza que se ubica debajo de los cordones.
+              
+              .tarjeta.color-secundario.text-white.p-3(x="69%" y="50%")
+                .h4.mb-2 Planta
+                p.mb-0 También llamada plantilla. Es una pieza que se encuentra en el interior del calzado, ayuda a reducir el impacto del pie contra al suelo cada vez que caminamos.
+              
+              .tarjeta.color-secundario.text-white.p-3(x="42%" y="23%")
+                .h4.mb-2 Orejas
+                p.mb-0 Se encarga de sujetar el empeine.
+              
+              .tarjeta.color-secundario.text-white.p-3(x="65%" y="25%")
+                .h4.mb-2 Forro
+                p.mb-0 Este generalmente se hace en un material más delgado como el cuero del cerdo, siempre va en la parte interna.
         
         p.mb-4 Existe una gran variedad de tipos de calzado, entre los más comunes encontramos: sandalias, botas, alpargatas, calzado urbano, calzado deportivo, tacones, calzado para el trabajo y zapatos ortopédicos.
         

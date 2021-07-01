@@ -20,22 +20,25 @@
     .row.g-3.justify-content-center.mb-5
       .col-lg-3.d-flex
         .bg01.p-4.rounded
-          h4.text-center.mb-4 Interiores
-          p Los atributos por interiores hacen referencia a la composición de los tejidos en que están elaborados (tela, plástico, cuero, no tejido, etc.), también se relacionan con el diseño, la calidad y un aspecto de tamaño que en moda se denomina tallaje.
-          figure
+          figure.mb-4
             img.imgW250.mx-auto(src="@/assets/curso/tema1/img02.png", alt="Interiores")
+          h4.text-center.mb-4 Interiores
+          p.mb-0 Los atributos por interiores hacen referencia a la composición de los tejidos en que están elaborados (tela, plástico, cuero, no tejido, etc.), también se relacionan con el diseño, la calidad y un aspecto de tamaño que en moda se denomina tallaje.
+          
       .col-lg-3.d-flex
         .tarjeta--gris.p-4.rounded
-          h4.text-center.mb-4 Exteriores
-          p Los atributos por exteriores se refieren a todos los elementos que acompañan al producto como son las etiquetas, empaque, embalaje, etc.
-          figure
+          figure.mb-4
             img.imgW250.mx-auto(src="@/assets/curso/tema1/img03.png", alt="Exteriores")
+          h4.text-center.mb-4 Exteriores
+          p.mb-0 Los atributos por exteriores se refieren a todos los elementos que acompañan al producto como son las etiquetas, empaque, embalaje, etc.
+          
       .col-lg-3.d-flex
         .bg01.p-4.rounded
-          h4.text-center.mb-4 Simbólicos
-          p Los atributos simbólicos hacen referencia a todo lo que representa la marca, su estatus y hasta el servicio. Tienen una relación estrecha al contexto social, situación geográfica, nivel cultural y aspectos psicológicos del consumidor. Los atributos más valorados son: la marca, lo novedoso, el diseño, el precio, la calidad y la utilidad.
-          figure
+          figure.mb-4
             img.imgW250.mx-auto(src="@/assets/curso/tema1/img04.png", alt="Simbólicos")
+          h4.text-center.mb-4 Simbólicos
+          p.mb-0 Los atributos simbólicos hacen referencia a todo lo que representa la marca, su estatus y hasta el servicio. Tienen una relación estrecha al contexto social, situación geográfica, nivel cultural y aspectos psicológicos del consumidor. Los atributos más valorados son: la marca, lo novedoso, el diseño, el precio, la calidad y la utilidad.
+          
 
     p.mb-4 Cuando se habla de una clasificación esta se puede ejecutar desde diferentes criterios como son por precio y exclusividad, por consumidor, por ocasión de uso, por materiales o por categorías. A medida que se desarrolla esta temática se abordarán cada uno de los criterios anteriormente expuestos.
 
