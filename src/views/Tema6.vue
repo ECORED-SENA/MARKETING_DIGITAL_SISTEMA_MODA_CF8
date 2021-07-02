@@ -21,10 +21,10 @@
         .bloque-texto-d.color-acento-contenido.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            p Se debe tener muy claro que en el momento en que una marca del sector moda desarrolla un producto, no solo da a conocer un elemento de vestir al público externo, sino que ofrece una experiencia, una forma de ver el mundo y la manera en que quien viste dicho producto sea percibido por los demás. Esto supone una entrega de valor que va más allá del mero precio económico que un consumidor debe pagar por un producto del sector moda, se enfoca en la fibra emocional que toca el producto para quien lo adquiere, además del estatus que le ofrece la marca al obtener dicho elemento.
-            i.fas.fa-quote-right
+            p.mb-1 Se debe tener muy claro que en el momento en que una marca del sector moda desarrolla un producto, no solo da a conocer un elemento de vestir al público externo, sino que ofrece una experiencia, una forma de ver el mundo y la manera en que quien viste dicho producto sea percibido por los demás. Esto supone una entrega de valor que va más allá del mero precio económico que un consumidor debe pagar por un producto del sector moda, se enfoca en la fibra emocional que toca el producto para quien lo adquiere, además del estatus que le ofrece la marca al obtener dicho elemento.
+            i.fas.fa-quote-right.d-flex.justify-content-end
           .bloque-texto-d__autor 
-            .h5.mb-0 Posner, 2011
+            .h5.mb-0.d-flex.justify-content-end Posner, 2011
     
     p.mb-4 De esta forma, para lanzar y promocionar un producto, la marca puede enfocar su estrategia de marketing hacia los atributos de este, ya sea desde su proceso de producción, materiales o apoyo a una causa determinada, haciendo énfasis en los beneficios que el consumidor obtendrá.
 
