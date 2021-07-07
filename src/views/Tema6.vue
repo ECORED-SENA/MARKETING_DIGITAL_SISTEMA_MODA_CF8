@@ -28,6 +28,20 @@
     
     p.mb-4 De esta forma, para lanzar y promocionar un producto, la marca puede enfocar su estrategia de marketing hacia los atributos de este, ya sea desde su proceso de producción, materiales o apoyo a una causa determinada, haciendo énfasis en los beneficios que el consumidor obtendrá.
 
+    .tarjeta.color-acento-botones.p-3.mb-2
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/template/icono-pdf.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h3.mb-1 Infografía
+              p.mb-0.text-small Lanzamiento del producto de moda
+            .col-sm-auto
+              a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Lanzamiento_producto_moda.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
+
     Separador
 
     #t6_1.titulo-segundo

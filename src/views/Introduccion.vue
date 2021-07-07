@@ -21,10 +21,10 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.mb-1 PDF
+              h3.mb-1 Infografía
               p.mb-0.text-small ¿De donde surge este momento de aprendizaje?
             .col-sm-auto
-              a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Infograia_momento-aprendizaje.pdf')" target="_blank")
+              a.boton.color-acento-contenido(:href="obtenerLink('/downloads/momento-aprendizaje.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
