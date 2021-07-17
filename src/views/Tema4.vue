@@ -43,7 +43,7 @@
               img.mx-auto(src="@/assets/curso/tema4/img04.svg", alt="Análisis de balances")
           .col-10.col-md-11
             h4 Plan de colección
-            p.mb-0 Elaborado por el director de marketing, product managers o merchandisers. orientan objetivos de producción a partir de los productos en las diferentes líneas y teniendo en cuenta las características anteriores. 
+            p.mb-0 Elaborado por el director de <i>marketing</i>, product managers o merchandisers. Orientan objetivos de producción a partir de los productos en las diferentes líneas y teniendo en cuenta las características anteriores. 
         hr.border-0.hrNew
         .row.align-items-center
           .col-2.col-md-1
@@ -82,7 +82,7 @@
               img.mx-auto(src="@/assets/curso/tema4/img09.svg", alt="Comercialización")
           .col-10.col-md-11
             h4 Comercialización
-            p.mb-0 Aquí es importante la aplicación de las estrategias de marketing en coherencia con los valores, objetivos y estilo de la marca, se organiza por calendario y se estipulan los productos digitales a implementar. En este punto es importante la distribución de los productos, diseños o modelos.
+            p.mb-0 Aquí es importante la aplicación de las estrategias de <i>marketing</i> en coherencia con los valores, objetivos y estilo de la marca, se organiza por calendario y se estipulan los productos digitales a implementar. En este punto es importante la distribución de los productos, diseños o modelos.
         hr.border-0.hrNew
         .row.align-items-center
           .col-2.col-md-1

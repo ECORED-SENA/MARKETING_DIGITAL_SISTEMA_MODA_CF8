@@ -66,7 +66,7 @@ export default {
           {
             icono: 'far fa-play-circle',
             numero: '5.2',
-            titulo: 'Encabezados',
+            titulo: 'Análisis de medidas y cuadros de tallas',
             hash: 't5_2',
           },
         ],
@@ -88,7 +88,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '6.2',
-            titulo: 'Encabezados',
+            titulo: 'Ciclo de vida del producto moda',
             hash: 't6_2',
           },
         ],
@@ -110,11 +110,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+      //{
+      //  icono: 'fas fa-download',
+      //  titulo: 'Descargar material',
+      //  download: 'downloads/material.zip',
+      //},
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -306,7 +306,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamziar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

@@ -136,7 +136,7 @@
       
       .row(numero="2" titulo="Marroquinería")
         .col-md-6.mb-4.mb-md-0
-          p.mb-4 La marroquinera es la industria que se encargar de trabajar el arte del cuero, como billeteras, malatas, llaveros, empaques, cinturones, etc.
+          p.mb-4 La marroquinera es la industria que se encarga de trabajar el arte del cuero, como billeteras, malatas, llaveros, empaques, cinturones, etc.
           p La utilización del cuero data al año 3000 A.C en donde los egipcios ya realizaban gravados en pieles y labores de curtido.
           figure.d-md-none
             img(src="@/assets/curso/tema2/img06.png", alt="marroquinera")
@@ -154,7 +154,7 @@
         
         p.mb-4 Hoy en día existen varias organizaciones que luchan por el bienestar y la protección de animales que son usados como si fueran insumos para empresas por sus pieles. 
 
-        p.mb-4 En el proceso de creación de los productos pensados desde la marroquinería se utilizan una diversidad de maquinaria y elementos. Lo invitamos  a observar los siguiente videos.
+        p.mb-4 En el proceso de creación de los productos pensados desde la marroquinería se utilizan una diversidad de maquinaria y elementos. Lo invitamos  a observar los siguientes videos.
 
         figure.mb-5
           .video

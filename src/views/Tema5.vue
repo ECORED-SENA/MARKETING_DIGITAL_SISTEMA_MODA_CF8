@@ -136,7 +136,7 @@
                 figure
                   img.w-75.mx-auto(src="@/assets/curso/tema5/img11.svg", alt="clic para consultar sitio web")
         
-        p.mb-4 En el siguiente video “Toma de Medidas” (2020), se muestra cómo se procede con la medición de las partes del cuerpo. Es importante ubicar puntos referenciales en la estructura corporal de las personas para proceder con la toma de medidas ¿has tomado alguna vez medidas a un cuerpo?, sino lo has hecho percibe el video con atención.
+        p.mb-4 En el siguiente video “Toma de Medidas” (2020), se muestra cómo se procede con la medición de las partes del cuerpo. Es importante ubicar puntos referenciales en la estructura corporal de las personas para proceder con la toma de medidas ¿has tomado alguna vez medidas a un cuerpo?, si no lo has hecho percibe el video con atención.
       
         figure
           .video

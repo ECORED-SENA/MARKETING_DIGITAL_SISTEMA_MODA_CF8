@@ -22,7 +22,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h3.mb-1 Infografía
-              p.mb-0.text-small ¿De donde surge este momento de aprendizaje?
+              p.mb-0 ¿De dónde surge este momento de aprendizaje?
             .col-sm-auto
               a.boton.color-acento-contenido(:href="obtenerLink('/downloads/momento-aprendizaje.pdf')" target="_blank")
                 span Descargar

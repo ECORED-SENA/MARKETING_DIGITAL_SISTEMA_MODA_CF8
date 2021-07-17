@@ -24,8 +24,8 @@
     
     .cajon.color-secundario.bg03.p-4.mb-5
       p.mb-0
-       | A partir de lo anterior y para lograr entender un poco lo que significa una cartera de productos o línea de productos bajo una sola marca, se destacan tres elementos que logran definir esta estrategia de marketing enfocada en productos o colección. Le sugerimos observar el siguiente recurso educativo para que usted tenga la capacidad para definir una estrategia de 
-       em marketing. 
+       | A partir de lo anterior y para lograr entender un poco lo que significa una cartera de productos o línea de productos bajo una sola marca, se destacan tres elementos que logran definir esta estrategia de <i>marketing</i> enfocada en productos o colección. Le sugerimos observar el siguiente recurso educativo para que usted tenga la capacidad para definir una estrategia de 
+       em <i>marketing</i>. 
        | Adelante.
     
     .row.g-3.justify-content-center.mb-5
@@ -82,7 +82,7 @@
 
     .DecTextIzq.mb-4
       div
-        p Estos mix o carteras de productos se renuevan de acuerdo a varios análisis que deben llevarse a cabo como por ejemplo la utilidad, costos, rentabilidad, circulación de los productos, distribución, para determinar variabilidad en tiempo para la producción de estos o la sustitución o eliminación de algún producto para reorientar las estrategias de marketing de una marca. Cabe resaltar que, como estrategia en fidelización de marca, muchas ofrecen productos momentáneos que aparecen de acuerdo a las necesidades de los consumidores y esta también puede llegar a convertirse en una línea que funciona en torno a tendencias de corto alcance.
+        p Estos mix o carteras de productos se renuevan de acuerdo a varios análisis que deben llevarse a cabo como por ejemplo la utilidad, costos, rentabilidad, circulación de los productos, distribución, para determinar variabilidad en tiempo para la producción de estos o la sustitución o eliminación de algún producto para reorientar las estrategias de <i>marketing</i> de una marca. Cabe resaltar que, como estrategia en fidelización de marca, muchas ofrecen productos momentáneos que aparecen de acuerdo a las necesidades de los consumidores y esta también puede llegar a convertirse en una línea que funciona en torno a tendencias de corto alcance.
         p Ahora bien, hay empresas que no necesariamente se posicionan como una marca, sino que construyen varias marcas, estas podrían contemplarse como líneas que contienen productos contenidas a su vez dentro de esas mismas líneas, para suplir diferentes necesidades a diferentes grupos de consumidor o nichos. Para ampliar estos mix o cartera de productos en una marca se parte de los tres elementos ¿Cuáles cree que son?, comprende la información que se presenta a continuación. 
       
     .row.justify-content-center

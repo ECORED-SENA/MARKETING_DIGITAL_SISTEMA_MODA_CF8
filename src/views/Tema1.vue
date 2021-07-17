@@ -11,8 +11,8 @@
     .row.mb-4.justify-content-center
       .col-lg-8
         p El producto en la moda hace parte directamente de los elementos de la marca, a pesar de ser un artículo tangible hoy en día se transforma en un híbrido donde representa de forma intangible los valores, la filosofía y todas las asociaciones significativas que representa la marca para el consumidor. Es un diálogo íntimo de preferencia entre la persona y el producto.
-        p Sumado a lo anterior, las políticas del marketing se relacionan estrechamente con los productos de moda, desde su propia estética hasta lo que representa en el sistema de compra. La definición de un producto de moda es la relación entre materia, forma y una serie de atributos estéticos que encajan con el estilo de vida, gustos y necesidades del que lo consume.
-        p Los productos de moda se dividen en tres (3) grupos según los atributos de contenga, estos son: interiores, exteriores y simbólicos. A continuación, se realiza una explicación de cada uno:
+        p Sumado a lo anterior, las políticas del <i>marketing</i> se relacionan estrechamente con los productos de moda, desde su propia estética hasta lo que representa en el sistema de compra. La definición de un producto de moda es la relación entre materia, forma y una serie de atributos estéticos que encajan con el estilo de vida, gustos y necesidades del que lo consume.
+        p Los productos de moda se dividen en tres (3) grupos según los atributos que contenga, estos son: interiores, exteriores y simbólicos. A continuación, se realiza una explicación de cada uno:
       .col-8.col-lg-4
         figure
           img(src="@/assets/curso/tema1/img01.jpg", alt="Atributos y Características")
@@ -70,7 +70,7 @@
           strong nivel aumentado 
           | cuando el cliente recibe algo agregado que no esperaba y genera una gran experiencia. Y, por último, el 
           strong nivel potencial 
-          | en donde se busca mejorar el producto e ir adaptarlo al consumidor.
+          | en donde se busca mejorar el producto e ir adaptándolo al consumidor.
       
   
 </template>
